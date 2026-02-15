@@ -2,7 +2,7 @@
 
 # 🎮 Nowaroid Studios
 
-![Banner](https://github.com/user-attachments/assets/04e2bb5d-b604-45a2-b86b-4931f62dad5d)
+<img width="1536" height="519" alt="bannerlogo" src="https://github.com/user-attachments/assets/3b849c6b-dac6-4776-92fe-d9914879b1f5" />
 
 ### Professionelle Entwicklung. Privat organisiert.
 
